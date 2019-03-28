@@ -8,7 +8,10 @@
     * 逢甲大學─黑客社  
 	    * [https://www.facebook.com/HackerSir.tw](https://www.facebook.com/HackerSir.tw)
     * 亞洲大學─亞洲白帽駭客社團
+    *中部電資
+    * 台中一中
     * 興大附中─電腦研習社
+    * 
     * 中興大學─資訊科學研習社
     * 暨南大學─[MOLi 創新自造者開放實驗室](http://moli.rocks)
   
